@@ -63,9 +63,8 @@ Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to s
 
 
 
-<a href="https://twitter.com/manoj_jha_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/manoj_jha_?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>  <!--<a href="https://www.youtube.com/channel/UCEORbAhSsfz4KTrfwvJxXDw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCEORbAhSsfz4KTrfwvJxXDw?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp; <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+<a href="https://twitter.com/SE_manojjha"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/manoj_jha_?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>  <!--<a href="https://www.youtube.com/channel/UCEORbAhSsfz4KTrfwvJxXDw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCEORbAhSsfz4KTrfwvJxXDw?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp; <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 <a href="https://www.twitch.tv/francesco_ciulla"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;-->
-
 
 <!-- ## 🥞 Tech Stack
  
